@@ -1,0 +1,1 @@
+'This project will be the biginning of practicing a web page using the google start-up page as a analoge to reproduce in development tools (not for publishing)
