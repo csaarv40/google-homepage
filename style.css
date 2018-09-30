@@ -145,5 +145,6 @@ a:hover{
 }
 .buttons{
     display: inline-block;
-
+    margin: 20px 500px;
+    position: relative;
 }
